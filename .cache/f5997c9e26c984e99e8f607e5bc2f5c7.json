@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./math","loc":{"line":1,"column":18}}],"generated":{"js":"\"use strict\";var r=require(\"./math\");"},"hash":"11b04a5f46392f61acb1374ea2e36d6d"}

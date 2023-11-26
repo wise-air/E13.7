@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./dist\\index.js","dynamic":true}],"generated":{"html":"<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <title>Webpack CONFIG</title> </head> <body> <script src=\"/dist/d7ad396cc3330041b2e73abdd2b630da.js\"></script> </body> </html>"},"hash":"a63d6f3519a91801735b005d2cfde91f"}
